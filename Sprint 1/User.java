@@ -1,3 +1,9 @@
+/**
+ * Medical Adherence System
+ * Sprint 1
+ * CMSC 355 - Fundamentals of Software Engineering
+ *
+ */
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
